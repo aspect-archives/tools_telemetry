@@ -52,7 +52,7 @@ Some of the collector features can be overridden or salted for further privacy i
 ### Example `.bazelrc` configurations
 
 ``` shell
-# Disable entirely with the industry-standard variable (https://consoledonottrack.com)
+# Disable entirely with the industry-standard variable [DO_NOT_TRACK](https://donottrack.sh/)
 common --repo_env=DO_NOT_TRACK=1
 
 # Salt every hash so the values are unrecomputable without it; any value works,

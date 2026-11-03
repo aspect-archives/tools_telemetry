@@ -1,5 +1,8 @@
 # aspect_tools_telemetry
 
+> [!IMPORTANT]
+> Aspect has retired tools telemetry and is no longer collecting telemetry from Bazel rule sets.
+
 > [!NOTE]
 > This repository uses the [Aspect CLI](https://github.com/aspect-build/aspect-cli) for CI and local development.
 > See the [docs](https://docs.aspect.build/cli/overview) and [install instructions](https://docs.aspect.build/cli/install) to get started.
